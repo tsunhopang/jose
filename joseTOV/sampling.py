@@ -1,3 +1,5 @@
+
+# FIXME: this script is outdated and does not work anymore with the current API
 from . import eos
 
 
